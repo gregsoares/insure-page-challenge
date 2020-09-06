@@ -4,7 +4,7 @@
   "description": "![Design preview for the Insure landing page coding challenge](./design/desktop-preview.jpg)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "cp index.html ./public/index.html && echo \" index.html copied to ./public/index.html \" "
   },
   "keywords": [],
   "author": "",
